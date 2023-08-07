@@ -1,4 +1,4 @@
-# Find and Replace programme to change the perticular word?
+# Find and Replace programe to change the perticular word?
 #! /bin/bash
 read -p "Enter your file name: " file_name
 read -p "Enter your word you want to replace: " replace_word
