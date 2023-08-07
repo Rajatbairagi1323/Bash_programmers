@@ -25,4 +25,4 @@ A bash script is a file containing a sequence of commands that are executed by t
 *Find a file from root path and current path.*
 
 ## **Find and replace command**
-*Find and Replace programme to change the perticular word.*
+*Find and Replace programe to change the perticular word.*
