@@ -1,13 +1,13 @@
 # Introduction of Bash Scripting   
-A bash script is a file containing a sequence of commands that are executed by the bash program line by line. It allows you to perform a series of actions, such as navigating to a specific directory, creating a folder, and launching a process using the command line.
+This repository serves as a resource for learning Python programming concepts.
 
 ## Topics
-* **Alias**
-* **Docker_installation**
-* **File_permission**
-* **Create_folder_in_given_path**
-* **Find_file_with_name**
-* **Find_replace_command**
+* **alias**
+* **docker_installation**
+* **file_permission**
+* **create_folder_in_given_path**
+* **find_file_with_name**
+* **find_replace_command**
 
 ## **Alias** 
 *Alias is used to create Alternative or shortcuts of a commands*
@@ -25,4 +25,4 @@ A bash script is a file containing a sequence of commands that are executed by t
 *Find a file from root path and current path.*
 
 ## **Find and replace command**
-*Find and Replace programe to change the perticular word.*
+*Find and Replace program to change the perticular word.*
