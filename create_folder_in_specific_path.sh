@@ -1,3 +1,4 @@
+#! bin/bash/
 #Script to create required number of directories/folders having date as folder name
 #Taking number of folder as input 
 #declare -i number

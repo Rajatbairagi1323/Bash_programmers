@@ -1,3 +1,4 @@
+#! bin/bash/
 # Find and Replace program to change the perticular word?
 #! /bin/bash
 read -p "Enter your file name: " file_name

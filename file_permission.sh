@@ -1,3 +1,4 @@
+#! bin/bash/
 # Permission Types
 # For files and directories, there are 4 types of permissions.
 # r -> Read
